@@ -14,3 +14,8 @@ assignment 3 - gradebook to gain insight on employee performance
 - create a gradebook for employees based on scores from 4 tests
 - learn how to use conditional formatting with icon sets or cell highlighting to make it easier to glean insights from the data
 - learn how to create charts and select data from the worksheet and use it on the charts to increase readability
+
+assignment 4 - decision maker to make decide on a choice from multiple options
+- create a table to decide which career to take depending on perceived relation between personal importance and real world situation
+- learn absolute and relative cell referencing between columns and rows and apply more conditional formatting with top bottom rules
+
