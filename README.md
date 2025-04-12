@@ -19,3 +19,8 @@ assignment 4 - decision maker to make decide on a choice from multiple options
 - create a table to decide which career to take depending on perceived relation between personal importance and real world situation
 - learn absolute and relative cell referencing between columns and rows and apply more conditional formatting with top bottom rules
 
+assignment 5 - sales report 
+- create a sales report for a company with data like date, sales person, sales price, profit, product code, product description etc.
+- learn and use functions like text to columns, if, sumif, sort, filter, pivot tables, pie charts
+- use both the range and sum range parameters for the sumif formula in the calculation of commission
+
